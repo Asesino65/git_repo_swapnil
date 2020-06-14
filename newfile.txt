@@ -1,4 +1,7 @@
 first line
 second line
+<<<<<<< HEAD
 third line
 fourth line
+=======
+>>>>>>> parent of 705b03d... third commit
