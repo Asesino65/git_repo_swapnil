@@ -1,3 +1,6 @@
 my firest file
+<<<<<<< HEAD
 this is my second line
 this is third line
+=======
+>>>>>>> parent of 96defa4... my seconf commit
